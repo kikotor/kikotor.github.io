@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>汉服网</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../media/汉服.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="center">
+  <div id="header"><img src="../image/header.jpg" width="1000" height="31" align="absmiddle" /></div>
+  <div id="导航">
+    <div id="W1"> <a href="../html/index.html">首页</a> | <a href="../html/han1.html">汉服百科</a> | 汉服类型 | <a href="../html/han2.html">汉服图片</a> | <a href="../html/han3.html">汉服商家</a> | 联系我们 <br />
+    </div>
+    <div id="W2">
+      <form id="form1" name="form1" method="post" action="">
+        <label for="textarea3"></label>
+        <input name="textarea" type="text" id="textarea3" value="" size="20" />
+        <img src="file:///E|/汉服/image/index_06.jpg" width="36" height="14" align="absmiddle" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </form>
+    </div>
+    <br />
+  </div>
+  <div id="内容"><!-- TemplateBeginEditable name="M1" --><!-- TemplateEndEditable --></div>
+  <div id="footer">Copyright &copy; 东莞理工学院城市学院何丹丹制作<br />
+京备123456号<br />
+</div>
+</div>
+</body>
+
